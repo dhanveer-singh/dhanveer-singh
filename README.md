@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanveer Singh</h1>
-<h3 align="center">Hi there! 👋 I'm a passionate frontend developer from India with 5+ years of experience in the IT sector. I specialize in building modern, user-friendly, and responsive web applications using HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Redux Toolkit, Tailwind CSS, MUI, and more. I love working on exciting projects that solve real-world problems, and I’m always eager to learn and explore new technologies. Let's connect and build something amazing together! 🚀</h3>
+<h3 align="center">Hi there! 👋 I'm a passionate frontend developer from India with 5+ years of experience. I specialize in building modern, user-friendly, and responsive web applications using HTML, CSS, Bootstrap, JavaScript, TypeScript, React.js, Redux Toolkit, Tailwind CSS, MUI, and more. I love working on exciting projects that solve real-world problems, and I’m always eager to learn and explore new technologies. Let's connect and build something amazing together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanveer-singh&label=Profile%20views&color=0e75b6&style=flat" alt="dhanveer-singh" /> </p>
 
