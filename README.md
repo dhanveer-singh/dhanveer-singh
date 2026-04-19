@@ -12,6 +12,14 @@
 
 ---
 
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhanveer-singh/dhanveer-singh/main/github-metrics.svg" width="100%" />
+</p>
+
+---
+
 ## ⚡ About Me
 
 I build **fast, scalable and production-grade frontend systems**  
