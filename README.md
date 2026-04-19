@@ -26,17 +26,26 @@ I build **fast, scalable and production-grade frontend systems**
 with a strong focus on **performance, UX and architecture**
 
 ---
+## 🧠 Tech DNA
 
-## 🧠 Tech Focus
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,tailwind,nextjs,git" />
+</p>
 
-```js
-const dhanveer = {
-  frontend: ["React", "Redux Toolkit", "Next.js"],
-  language: ["JavaScript", "TypeScript"],
-  styling: ["Tailwind", "MUI"],
-  focus: ["Performance", "Scalability", "UX"],
-};
-````
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Performance-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Approach-Clean_Code-0f2027?style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ What I Build
+
+- ⚡ Fast & optimized web apps  
+- 🧩 Scalable frontend architectures  
+- 📊 Data-driven dashboards  
+- 🎯 Clean & intuitive user experiences  
 
 ---
 
@@ -51,11 +60,44 @@ const dhanveer = {
 
 ## 🚀 Work Snapshot
 
-| Project       | Impact                             |
-| ------------- | ---------------------------------- |
-| Cubistics TMS | ⚡ Faster UI • 📊 Better dashboards |
-| Homeland CRM  | 📊 Improved data visibility        |
-| Team Square   | 🧩 Scalable design system          |
+<p align="center">
+  <table>
+    <tr>
+      <td width="33%" valign="top">
+
+### 📊 Cubistics TMS  
+Scalable transport dashboards using React & Redux Toolkit  
+
+**Impact:**  
+⚡ Faster performance  
+📊 Real-time insights  
+🧩 Reusable architecture  
+
+</td>
+<td width="33%" valign="top">
+
+### 🏠 Homeland CRM  
+Data-driven CRM dashboards with Chart.js  
+
+**Impact:**  
+📊 Better visibility  
+⚡ Streamlined workflows  
+
+</td>
+<td width="33%" valign="top">
+
+### 👥 Team Square  
+HRMS UI with Tailwind design system  
+
+**Impact:**  
+🧩 Consistent UI  
+⚡ Faster development  
+🎯 Improved UX  
+
+</td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -75,10 +117,24 @@ const dhanveer = {
 
 ---
 
-## 🤝 Connect
+## 🤝 Let’s Work Together
 
-📧 [singhdhanveer007@gmail.com](mailto:singhdhanveer007@gmail.com)
-💼 LinkedIn: linkedin.com/in/singh-dhanveer
+<p align="center">
+  Looking for someone to build fast, scalable & production-ready frontend?
+</p>
+
+<p align="center">
+  <a href="mailto:singhdhanveer007@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-0f2027?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/singh-dhanveer">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2c5364?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💼 Open to Frontend Roles • 🚀 Freelance • 🤝 Collaborations
+</p>
 
 ---
 
